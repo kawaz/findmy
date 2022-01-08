@@ -13,3 +13,4 @@ direnv allow
 - .envrc を作成して `layout python python3` と書いて保存
 - `direnv allow` で .envrc を承認
 - `poetry init -n` でプロジェクトファイル作成(`brew install poetry` で入れておく)
+

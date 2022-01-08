@@ -1,2 +1,5 @@
 /.direnv
-.envrc-local
+/.envrc-local
+/dist
+/.vscode/launch.json
+/cookie/
