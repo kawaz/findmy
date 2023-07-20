@@ -8,7 +8,7 @@ authors = ["Yoshiaki Kawazu <kawazzz@gmail.com>"]
 python = "^3.9"
 pyicloud = "^0.10.2"
 jsonpickle = "^2.0.0"
-Pygments = "^2.10.0"
+Pygments = "^2.15.0"
 
 [tool.poetry.dev-dependencies]
 
